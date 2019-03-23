@@ -149,6 +149,7 @@ class AddRegistrationTableViewController: UITableViewController {
     }
     
     //Outlets for Adult & Children Value Labels & Steppers
+    //Test Comment
     
     @IBOutlet weak var numberOfAdultsLabel: UILabel!
     
